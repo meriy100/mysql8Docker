@@ -5,7 +5,7 @@ Running mysql 8.x on local because local mysql version isn't 8.x.
 
 ## Usage
 
-```rb
+```bash
 $ docker-compose up -d
 ```
 
